@@ -1,0 +1,47 @@
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav_box {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 60px;
+  }
+  .my_shop {
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding:25px 20px;
+    color:red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* text-align:right; */
+    /* align-items: center; */
+  }
+  .cart button{
+    float: right;
+    padding: 5px 10px;
+    border: none;
+    font-weight: bold;
+    background-color: skyblue;
+    outline: none;
+  }
+  .cart button:hover{
+    background-color: darkseagreen;
+  }
+  /*.cart span:nth-child(1) {
+    font-size: 2rem;
+    color: white;
+  }
+  .cart span:nth-child(2) {
+    padding: 0 3px;
+    background-color: red;
+    color: white;
+    font-weight: bolx;
+    border-radius: 5px;
+    position: relative;
+    top: -15px;
+  }*/

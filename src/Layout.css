@@ -1,0 +1,30 @@
+.header h1{
+    position: relative;
+    color: mediumvioletred;
+    background-color: black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/*.reg{
+    text-align: end;
+}
+.login{
+    text-align: end;
+}
+.about{
+    text-align: justify;
+}*/
+.title{
+    font-size: 40px;
+    text-align: center;
+    /*background-color: blueviolet;*/
+}
+.align img{
+    float: left;
+    width:85px;
+    height:80px;
+}
+.align{
+    /* margin: 10px auto; */
+    text-align: end;
+    background-color: rgb(223, 237, 142);
+}
